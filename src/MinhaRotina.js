@@ -31,8 +31,11 @@ const MinhaRotina = () => {
             </audio>
             <div>
                 <h2>Frase Filosófica</h2>
-                <p><i>"Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe."</i><br />
-                    — Oscar Wilde</p>
+                <p>
+                    <i>"Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe."</i>
+                    <br />
+                    — Oscar Wilde
+                </p>
             </div>
         </div>
     );
